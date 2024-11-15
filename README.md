@@ -1,6 +1,6 @@
 # YouTube FER Downloader
 
-![YouTube FER](2024-11-15 12 43 38.jpg)
+![YouTube FER](./2024-11-15 12 43 38.jpg)
 
 Aplicación de escritorio moderna para descargar música de YouTube en formato MP3 con interfaz gráfica intuitiva.
 
