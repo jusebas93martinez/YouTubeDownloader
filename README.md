@@ -15,7 +15,7 @@ Aplicación de escritorio moderna para descargar música de YouTube en formato M
 
 ## 🚀 Instalación
 
-1. Descarga la última versión desde [Releases]([https://github.com/tu-usuario/youtube-fer-downloader/releases](https://drive.google.com/drive/folders/1ncylOz7Rrw0flgjwX2IQs-AGlIlgJdxY?usp=sharing))
+1. Descarga la última versión desde[https://drive.google.com/drive/folders/1ncylOz7Rrw0flgjwX2IQs-AGlIlgJdxY?usp=sharing
 2. Ejecuta el archivo `YouTube-FER.exe`
 3. No requiere instalación adicional
 
