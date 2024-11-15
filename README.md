@@ -1,6 +1,6 @@
 # YouTube FER Downloader
 
-[![YouTube FER](https://raw.githubusercontent.com/tu-usuario/youtube-fer-downloader/main/assets/preview.png)](https://drive.google.com/drive/folders/1ncylOz7Rrw0flgjwX2IQs-AGlIlgJdxY?usp=drive_link)
+![YouTube FER](./assets/preview.png)
 
 Aplicación de escritorio moderna para descargar música de YouTube en formato MP3 con interfaz gráfica intuitiva.
 
@@ -15,7 +15,7 @@ Aplicación de escritorio moderna para descargar música de YouTube en formato M
 
 ## 🚀 Instalación
 
-1. Descarga la última versión desde [Releases](https://github.com/tu-usuario/youtube-fer-downloader/releases)
+1. Descarga la última versión desde [Releases]([https://github.com/tu-usuario/youtube-fer-downloader/releases](https://drive.google.com/drive/folders/1ncylOz7Rrw0flgjwX2IQs-AGlIlgJdxY?usp=sharing))
 2. Ejecuta el archivo `YouTube-FER.exe`
 3. No requiere instalación adicional
 
